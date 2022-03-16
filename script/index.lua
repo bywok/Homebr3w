@@ -685,7 +685,7 @@ function checkLibraries()
 		if not System.doesFileExist(APP_LIBS_DIR.."/"..v.filename) then
 			Screen.debugPrint(5, 20, "Downloading "..v.name, WHITE, BOTTOM_SCREEN)
 			if not getLib(v) then
-				showError("Failed to download library!\nUnable to continue, please\ntry restarting the app and\ntry again.\n \nPress A to go back to "..home..".", function()
+				showError("L'MARRARRGHHH.... I AM ANGRY!!!!! GrrrrRRR. ARRRRGH!!!! L'MARGH! L"..home..".", function()
 					pad = Controls.read()
 					if Controls.check(pad, KEY_A) and not Controls.check(oldpad, KEY_A) then
 						System.exit()
