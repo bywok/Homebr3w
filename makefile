@@ -1,6 +1,6 @@
 NAME = "$(OUTFILE_NAME)"
-DESCRIPTION = "Homebrew Browser for 3ds"
-AUTHOR = "Wolvan"
+DESCRIPTION = "You suck Chapter 1"
+AUTHOR = "Wolvan or Bywok (Whichever one's you want's to's clal it's"
 
 ASSET_DIR = assets
 BUILDTOOLS_DIR = buildtools
